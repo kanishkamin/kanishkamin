@@ -14,13 +14,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-Hello there! Welcome to my GitHub profile. 
-I'm an undergraduate student pursuing a Bachelor's degree in Electronics and Communication Engineering, and I'm passionate about Python programming and Arduino development. This README is here to give you a glimpse into who I am, what I'm working on, and how you can collaborate with me.
+**Hello there! Welcome to my GitHub profile.** 
+I'm an undergraduate student pursuing a Bachelor's degree in **Electronics and Communication Engineering**, and I'm passionate about Python programming and Arduino development. This README is here to give you a glimpse into who I am, what I'm working on, and how you can collaborate with me.
 
 ## About Me
 
-- 👋 Hi, I’m Kanishk Amin
+- 👋 Hi, I’m **_Kanishk Amin_**
 - **Education:** Bachelor of Engineering in Electronics and Communication
 - **Email:** kanishkamin07@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
