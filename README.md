@@ -31,9 +31,9 @@ I'm an undergraduate student pursuing a Bachelor's degree in **Electronics and C
 - **Microcontrollers:** Arduino
 - **👀 Areas of Interest:** Arduino Coding, Embedded Systems, IoT, Digital Signal Processing
 - **Favorite Projects:** [List some of your favorite projects]
-
-
 - 📫 How to reach me kanishkamin07@gmail.com
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamin" alt="kanishkamin" /></p>
 
 <!---
 ## Projects
